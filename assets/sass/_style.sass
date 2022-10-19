@@ -6,8 +6,27 @@ header[role="banner"]
 
 h1
     font-style: italic
+    @include media-breakpoint-up(md)
+        padding-left: offset(3)
+
+.block-content
+    @include media-breakpoint-up(md)
+        padding-left: offset(3)
+
+// .page__home
+//     h1
+//         display: none
 
 footer[role="contentinfo"]
+    margin-top: $spacing4
+    border-top: 2px solid $main-light-color
+    .content
+        @include media-breakpoint-up(md)
+            grid-template-columns: repeat(2, 1fr)
+    .complementary,
+    .credit
+        @include media-breakpoint-up(md)
+            padding-left: offset(6)
     p,
     .nav-level-1 a
         font-size: px2rem(18)
