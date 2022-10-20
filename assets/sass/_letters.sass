@@ -1,7 +1,10 @@
 .letters
-    margin-top: $spacing5
+    margin-top: $spacing4
+    @include media-breakpoint-up(xl)
+        margin-top: $spacing5
     .container
-        @include grid(4, md)
+        @include grid(2, md)
+        @include grid(4, xxl)
     .letter
         margin-bottom: $spacing3
         p, li, a
@@ -27,4 +30,4 @@
             li.active
                 color: $main-light-color
 
-                
+                 

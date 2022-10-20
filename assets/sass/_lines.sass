@@ -21,6 +21,12 @@
         left: offset(9)
     &__5
         right: 0
+    @include media-breakpoint-down(lg)
+        &__3
+            left: 50%
+        &__2,
+        &__4
+            display: none
     @include media-breakpoint-down(md)
         left: 12px
         right: 12px
