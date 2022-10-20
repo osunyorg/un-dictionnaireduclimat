@@ -1,10 +1,11 @@
 .letters
     margin-top: $spacing5
     .letter
-        display: inline-table
-        width: col(3)
-        margin-right: 32px
         margin-bottom: $spacing3
+        @include media-breakpoint-up(md)
+            display: inline-table
+            width: col(3)
+            margin-right: 32px
         p, li, a
             font-size: px2rem(28)
         span
@@ -13,10 +14,12 @@
             span
                 color: $main-light-color
         &--first
-            width: 50%
+            @include media-breakpoint-up(md)
+                width: 50%
             p
-                width: col(5, 6)
                 font-style: italic
+                @include media-breakpoint-up(md)
+                        width: col(5, 6)
         ul
             list-style-type: none
             padding-left: 0

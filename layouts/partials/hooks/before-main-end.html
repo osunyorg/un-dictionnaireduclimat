@@ -9,16 +9,17 @@
         </p>
         <ul>
     {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
-    {{ $currentLetter := substr .Title 0 1 }}
+    {{ $slug := index (split .RelPermalink "/") 3 }}
+    {{ $currentLetter := substr $slug 0 1 | anchorize | upper }}
     {{ $currentPermalink := .Permalink }}
     {{ if .IsHome }}
       {{ $currentPermalink = "" }}
     {{ end }}
     {{ range .Site.Pages.ByTitle  }}
       {{ if "/termes/" | in .Permalink }}
-        {{ if strings.HasSuffix .Permalink "/termes/" }}
-        {{ else }}
-          {{ $firstChar := substr .Title 0 1 | upper }}
+        {{ if not (strings.HasSuffix .Permalink "/termes/") }}
+          {{ $slug := index (split .RelPermalink "/") 3 }}
+          {{ $firstChar := substr $slug 0 1 | anchorize | upper }}
           {{ if $firstChar | in $letters }}
             {{ $curLetter := $.Scratch.Get "curLetter" }}
             {{ if ne $firstChar $curLetter }}
