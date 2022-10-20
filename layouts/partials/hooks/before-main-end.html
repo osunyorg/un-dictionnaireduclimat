@@ -1,0 +1,42 @@
+<div class="letters">
+  <div class="container">
+    <div class="letter letter--first {{ if .Page.IsHome }}letter--active{{ end }}">
+      <span><i>D</i>dC</span>
+      <p>
+        {{ with .GetPage "/" }} 
+          {{ .Params.description_short }}
+          {{ end }}
+        </p>
+        <ul>
+    {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+    {{ $currentLetter := substr .Title 0 1 }}
+    {{ $currentPermalink := .Permalink }}
+    {{ if .IsHome }}
+      {{ $currentPermalink = "" }}
+    {{ end }}
+    {{ range .Site.Pages.ByTitle  }}
+      {{ if "/termes/" | in .Permalink }}
+        {{ if strings.HasSuffix .Permalink "/termes/" }}
+        {{ else }}
+          {{ $firstChar := substr .Title 0 1 | upper }}
+          {{ if $firstChar | in $letters }}
+            {{ $curLetter := $.Scratch.Get "curLetter" }}
+            {{ if ne $firstChar $curLetter }}
+              {{ $.Scratch.Set "curLetter" $firstChar }}
+                </ul>
+              </div>
+              <div class="letter letter--{{ $firstChar }} {{ if (eq $currentLetter $firstChar) }} letter--active{{ end }}">
+                <span>{{ $firstChar }}</span>
+              <ul>
+            {{ end }}
+            {{ if eq .Permalink $currentPermalink }}
+              <li class="active">{{ .Title }}</li>
+            {{ else }}
+              <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }} 
+  </div>
+</div>
