@@ -21,6 +21,10 @@ h1
 .hero
     align-items: start
     min-height: 0
+    @include media-breakpoint-up(xl)
+        > div:first-of-type 
+            > div
+                margin-top: 6rem
     @include media-breakpoint-down(md)
         padding-top: $spacing2
         h1

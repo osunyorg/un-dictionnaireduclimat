@@ -1,7 +1,5 @@
 .letters
     margin-top: $spacing4
-    @include media-breakpoint-up(xl)
-        margin-top: $spacing5
     .container
         @include grid(2, md)
         @include grid(4, xxl)
@@ -15,12 +13,19 @@
             span
                 color: $main-light-color
         &--first
-            @include media-breakpoint-up(md)
-                grid-column: span 2
+            &.letter--active
+                span
+                    // https://codepen.io/sosuke/pen/Pjoqqp
+                    filter: invert(45%) sepia(41%) saturate(4526%) hue-rotate(168deg) brightness(98%) contrast(96%)
+            img
+                margin-top: 43px
             p
+                margin-top: -20px
                 font-style: italic
                 @include media-breakpoint-up(md)
-                        width: col(5, 6)
+                    width: col(5, 6)
+            @include media-breakpoint-up(md)
+                grid-column: span 2
         ul
             list-style-type: none
             padding-left: 0
