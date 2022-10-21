@@ -1,4 +1,7 @@
 header[role="banner"]
+    nav[role="navigation"]
+        .container
+            align-items: flex-start
     .logo
         margin-top: -12px
         padding-top: 12px
@@ -12,13 +15,20 @@ header[role="banner"]
             height: auto
     .climate-action
         transition: opacity 1s ease
+        display: none
         @include media-breakpoint-down(md)
-            margin-top: 4rem
+            max-width: 100px
+            margin-left: auto
+            &--vertical
+                display: block
         @include media-breakpoint-up(md)
-            display: block
             text-align: right
             max-width: col(3)
+            min-width: 200px
             margin-left: auto
+            margin-top: 4px
+            &--horizontal
+                display: block
         
 .is-sticky
     .climate-action
