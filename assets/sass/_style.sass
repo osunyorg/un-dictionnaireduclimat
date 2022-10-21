@@ -12,17 +12,13 @@ header[role="banner"]
             height: auto
     .climate-action
         transition: opacity 1s ease
-        display: none
         @include media-breakpoint-down(md)
-            &--vertical
-                display: block
-                margin-top: 4rem
+            margin-top: 4rem
         @include media-breakpoint-up(md)
-            &--horizontal
-                display: block
-                text-align: right
-                max-width: col(3)
-                margin-left: auto
+            display: block
+            text-align: right
+            max-width: col(3)
+            margin-left: auto
         
 .is-sticky
     .climate-action
