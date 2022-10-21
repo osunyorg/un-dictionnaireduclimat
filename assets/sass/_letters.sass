@@ -18,6 +18,8 @@
                 span
                     // https://codepen.io/sosuke/pen/Pjoqqp
                     filter: invert(45%) sepia(41%) saturate(4526%) hue-rotate(168deg) brightness(98%) contrast(96%)
+                    @include media-breakpoint-down(md)
+                        display: none
             img
                 margin-top: 43px
             p
