@@ -1,1 +1,5 @@
 baseURL: https://dico.unric.org
+# https://stackoverflow.com/questions/65040931/hugo-failed-to-find-a-valid-digest-in-the-integrity-attribute-for-resource
+params:
+    assets:
+        disableFingerprinting: true
