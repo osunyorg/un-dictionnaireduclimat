@@ -1,0 +1,4 @@
+{{ $logo := resources.Get "images/logo.svg" | resources.Fingerprint }}
+<a class="logo" href="{{ site.BaseURL }}">
+  <img src="{{ $logo.Permalink }}" alt="{{ site.Title }}" height="122" width="67">
+</a>
