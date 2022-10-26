@@ -39,7 +39,7 @@ header[role="banner"]
     .climate-action
         opacity: 0
 h1
-    font-style: italic
+    margin: 0
     @include media-breakpoint-up(xl)
         padding-left: offset(3)
 
@@ -52,6 +52,7 @@ h1
 .hero
     align-items: start
     min-height: 0
+    padding-bottom: 0
     @include media-breakpoint-up(xl)
         > div:first-of-type 
             > div
@@ -59,7 +60,6 @@ h1
     @include media-breakpoint-down(md)
         padding-top: $spacing2
         h1
-            margin-bottom: 0
             word-break: break-word
             hyphens: auto
 
@@ -75,7 +75,8 @@ h1
     .chapter
         div:not(.notes)
             p
-                font-size: px2rem(28)
+                line-height: 160%
+                font-size: px2rem(24)
 
 footer[role="contentinfo"]
     margin-top: $spacing4

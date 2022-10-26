@@ -6,10 +6,12 @@
     .letter
         margin-bottom: $spacing3
         p, li, a
-            font-size: px2rem(28)
-            line-height: 1.2
+            font-size: px2rem(24)
+            line-height: 160%
         span
             font-size: px2rem(120)
+            font-family: $heading-font-family
+            font-weight: 700
         &--active
             span
                 color: $main-light-color
@@ -23,7 +25,6 @@
             img
                 margin-top: 43px
             p
-                font-style: italic
                 line-height: 1.4
                 margin-top: -20px
                 @include media-breakpoint-up(md)
@@ -35,7 +36,8 @@
             padding-left: 0
             margin: 0
             li
-                padding-bottom: px2rem(20)
+                line-height: 120%
+                padding-bottom: px2rem(30)
             li.active
                 color: $main-light-color
 
