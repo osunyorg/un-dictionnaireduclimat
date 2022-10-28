@@ -1,7 +1,12 @@
 <div class="letters">
   <div class="container">
     <div class="letter letter--first {{ if .Page.IsHome }}letter--active{{ end }}">
-      <span><img src="/assets/images/nations-unies-emblem.svg" alt="" width="120" height="102"></span>
+      <span>
+        {{ $image := resources.Get "images/image.png" | resources.Fingerprint }}
+        <a href="/">
+          <img src="{{ $image.Permalink }}" alt="" height="500" width="500">
+        </a>
+      </span>
       <p>
         {{ with .GetPage "/" }} 
           {{ .Params.description_short }}
