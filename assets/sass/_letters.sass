@@ -12,10 +12,15 @@
             font-size: px2rem(120)
             font-family: $heading-font-family
             font-weight: 700
+            margin-left: -14px
+            @include media-breakpoint-up(md)
+                margin-left: -6px
         &--active
             span
                 color: $main-light-color
         &--first
+            span
+                margin-left: 0
             &.letter--active
                 img
                     filter: grayscale(0)
