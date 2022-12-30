@@ -83,10 +83,19 @@ footer#document-footer
     border-top: 2px solid $color-accent
     .footer-credit
         align-self: end
-        font-size: px2rem(14)
+        // font-size: px2rem(14)
     .footer-social
         display: none
     .logo
         img 
             width: 220px
             height: auto
+    @include media-breakpoint-up(desktop)
+        .footer-site
+            width: 50%
+            text-align: left
+            padding-left: half($grid-gutter)
+        .footer-legals
+            margin-left: auto
+            padding-left: half($grid-gutter)
+            width: 50%
