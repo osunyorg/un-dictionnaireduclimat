@@ -3,7 +3,7 @@
     @include media-breakpoint-down(md)
         --header-height: 156px
 
-header[role="banner"]
+header#document-header
     nav[role="navigation"]
         .container
             align-items: flex-start
@@ -13,7 +13,7 @@ header[role="banner"]
         padding-right: 12px
         padding-bottom: 12px
         background: white
-        border-left: 1px solid transparentize($main-light-color, 1-$lines-opacity)
+        border-left: 1px solid transparentize($color-accent, 1-$lines-opacity)
         img
             margin-left: -2px
             width: 144px
@@ -53,6 +53,9 @@ h1
     align-items: start
     min-height: 0
     padding-bottom: 0
+    .content
+        padding-top: 0
+        // margin: 0
     @include media-breakpoint-up(xl)
         > div:first-of-type 
             > div
@@ -64,8 +67,6 @@ h1
             hyphens: auto
 
 .page__home
-    .hero
-        min-height: 0
     h1
         display: none
     .letters
@@ -78,21 +79,14 @@ h1
                 line-height: 160%
                 font-size: px2rem(24)
 
-footer[role="contentinfo"]
+footer#document-footer
     margin-top: $spacing4
-    border-top: 2px solid $main-light-color
-    .content
-        @include media-breakpoint-up(md)
-            grid-template-columns: repeat(2, 1fr)
-    .complementary,
-    .credit
-        @include media-breakpoint-up(md)
-            padding-left: offset(6)
-    p,
-    .nav-level-1 a
-        font-size: px2rem(18)
-        &[itemprop=name]
-            margin-bottom: 0
+    border-top: 2px solid $color-accent
+    .footer-credit
+        align-self: end
+        font-size: px2rem(14)
+    .footer-social
+        display: none
     .logo
         img 
             width: 220px
