@@ -12,21 +12,24 @@ header#document-header
         padding-top: 12px
         padding-right: 12px
         padding-bottom: 12px
-        background: white
-        border-left: 1px solid transparentize($color-accent, 1-$lines-opacity)
         img
-            margin-left: -2px
             width: 144px
             height: auto
+        
+        @include media-breakpoint-down(desktop)
+            img
+                margin-left: 2px
+                width: 120px
     .climate-action
         transition: opacity 1s ease
         display: none
-        @include media-breakpoint-down(md)
-            max-width: 100px
+        @include media-breakpoint-down(desktop)
+            max-width: 60px
             margin-left: auto
+            margin-right: 2px
             &--vertical
                 display: block
-        @include media-breakpoint-up(md)
+        @include media-breakpoint-up(desktop)
             text-align: right
             max-width: col(3)
             min-width: 200px
@@ -50,16 +53,19 @@ h1
         padding-left: offset(3) !important
 
 .hero
+    .content > h1
+        width: 100%
     align-items: start
-    min-height: 0
     padding-bottom: 0
-    .content
-        padding-top: 0
+    @include media-breakpoint-up(desktop)
+        .content
+            padding-top: 0
     @include media-breakpoint-up(xl)
         > div:first-of-type 
             > div
                 margin-top: 6rem
-    @include media-breakpoint-down(md)
+    
+    @include media-breakpoint-down(desktop)
         padding-top: $spacing2
         h1
             word-break: break-word
@@ -73,8 +79,8 @@ h1
 
 .block-chapter
     .chapter
-        div:not(.notes)
-            p
+        .rich-text
+            *
                 line-height: 160%
                 font-size: px2rem(24)
 
@@ -83,7 +89,7 @@ footer#document-footer
     border-top: 2px solid $color-accent
     .footer-credit
         align-self: end
-        // font-size: px2rem(14)
+        font-size: px2rem(14)
     .footer-social
         display: none
     .logo
