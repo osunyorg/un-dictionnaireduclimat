@@ -4,4 +4,4 @@ baseURL: https://dico.unric.org
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
