@@ -3,7 +3,7 @@
     <div class="letter letter--first {{ if .Page.IsHome }}letter--active{{ end }}">
       <span>
         {{ $image := resources.Get "images/image.png" | resources.Fingerprint }}
-        <a href="/">
+        <a href="{{ site.Home.Permalink }}">
           <img src="{{ $image.Permalink }}" alt="" height="500" width="500">
         </a>
       </span>
@@ -20,9 +20,18 @@
     {{ if .IsHome }}
       {{ $currentPermalink = "" }}
     {{ end }}
+
+    {{/* "/nl/voorwaarden/", but we want "/voorwaarden" */}}
+    {{ $termsPath := index .Site.Home.Params.children 0 }}
+    {{/* "/nl/voorwaarden/" -> "voorwaarden" */}}
+    {{ $termsPath =  index (split $termsPath "/") 2 }}
+    {{/* "voorwaarden" -> "/voorwaarden" */}}
+    {{ $termsPath = printf "/%s" $termsPath }}
+
+    {{/* Iterate on all pages to find only terms */}}
     {{ range .Site.Pages.ByTitle  }}
-      {{ if "/termes/" | in .Permalink }}
-        {{ if not (strings.HasSuffix .Permalink "/termes/") }}
+      {{ if $termsPath | in .Permalink }}
+        {{ if not (strings.HasSuffix .Permalink $termsPath) }}
           {{ $slug := index (split .RelPermalink "/") 3 }}
           {{ $firstChar := substr $slug 0 1 | anchorize | upper }}
           {{ if $firstChar | in $letters }}
