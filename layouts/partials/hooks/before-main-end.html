@@ -3,16 +3,16 @@
     <div class="letter letter--first {{ if .Page.IsHome }}letter--active{{ end }}">
       <span>
         {{ $image := resources.Get "images/image.png" | resources.Fingerprint }}
-        <a href="{{ site.Home.Permalink }}">
+        <a href="{{ site.Home.Permalink }}" aria-label="{{- chomp site.Home.Title -}}">
           <img src="{{ $image.Permalink }}" alt="" height="500" width="500">
         </a>
       </span>
       <p>
         {{ with .GetPage "/" }} 
           {{ .Params.description_short }}
-          {{ end }}
-        </p>
-        <ul>
+        {{ end }}
+      </p>
+      <ul>
     {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
     {{ $slug := index (split .RelPermalink "/") 3 }}
     {{ $currentLetter := substr $slug 0 1 | anchorize | upper }}
