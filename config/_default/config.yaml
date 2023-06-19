@@ -5,3 +5,5 @@ removePathAccents: true
 params:
   breadcrumb:
     position: none
+  logo:
+    footer: "/assets/images/UN_logo_stacked_French.svg"
