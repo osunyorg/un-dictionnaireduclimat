@@ -1,4 +1,8 @@
 ---
 title: Legal
-items: []
+items:
+- title: Legal & credit
+  target: "/nl/mentions-legales/"
+  kind: page
+  children: []
 
