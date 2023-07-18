@@ -1,4 +1,240 @@
 ---
 title: Primary
-items: []
+items:
+- title: Termes
+  target: "/fr/termes/"
+  kind: page
+  children:
+  - title: Adaptation
+    target: "/fr/termes/adaptation/"
+    kind: page
+    children: []
+  - title: Agriculture intelligente face au climat
+    target: "/fr/termes/agriculture-intelligente-face-au-climat/"
+    kind: page
+    children: []
+  - title: Anthropocène
+    target: "/fr/termes/anthropocene/"
+    kind: page
+    children: []
+  - title: Atténuation (ou mitigation)
+    target: "/fr/termes/attenuation-ou-mitigation/"
+    kind: page
+    children: []
+  - title: Bien public mondial
+    target: "/fr/termes/bien-public-mondial/"
+    kind: page
+    children: []
+  - title: Biocarburant
+    target: "/fr/termes/biocarburant/"
+    kind: page
+    children: []
+  - title: Biodiversité
+    target: "/fr/termes/biodiversite/"
+    kind: page
+    children: []
+  - title: Bouquet énergétique
+    target: "/fr/termes/bouquet-energetique/"
+    kind: page
+    children: []
+  - title: Changement climatique
+    target: "/fr/termes/changement-climatique/"
+    kind: page
+    children: []
+  - title: Climat
+    target: "/fr/termes/climat/"
+    kind: page
+    children: []
+  - title: Conférence des Parties (COP)
+    target: "/fr/termes/conference-des-parties-cop/"
+    kind: page
+    children: []
+  - title: Contributions déterminées au niveau national (NDC)
+    target: "/fr/termes/contributions-determinees-au-niveau-national-ndc/"
+    kind: page
+    children: []
+  - title: Croissance (économique)
+    target: "/fr/termes/croissance-economique/"
+    kind: page
+    children: []
+  - title: Décroissance
+    target: "/fr/termes/decroissance/"
+    kind: page
+    children: []
+  - title: Développement durable
+    target: "/fr/termes/developpement-durable/"
+    kind: page
+    children: []
+  - title: Écosystème
+    target: "/fr/termes/ecosysteme/"
+    kind: page
+    children: []
+  - title: Énergie fossile
+    target: "/fr/termes/energie-fossile/"
+    kind: page
+    children: []
+  - title: Équité intergénérationnelle
+    target: "/fr/termes/equite-intergenerationnelle/"
+    kind: page
+    children: []
+  - title: Extinction de masse
+    target: "/fr/termes/extinction-de-masse/"
+    kind: page
+    children: []
+  - title: Financement pour le climat
+    target: "/fr/termes/financement-pour-le-climat/"
+    kind: page
+    children: []
+  - title: Finance verte
+    target: "/fr/termes/finance-verte/"
+    kind: page
+    children: []
+  - title: Gaz à effets de serre
+    target: "/fr/termes/gaz-a-effets-de-serre/"
+    kind: page
+    children: []
+  - title: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC)
+    target: "/fr/termes/groupe-dexperts-intergouvernemental-sur-levolution-du-climat-giec/"
+    kind: page
+    children: []
+  - title: Impact climatique
+    target: "/fr/termes/impact-climatique/"
+    kind: page
+    children: []
+  - title: Justice environnementale
+    target: "/fr/termes/justice-environnementale/"
+    kind: page
+    children: []
+  - title: Marché carbone réglementé
+    target: "/fr/termes/marche-carbone-reglemente/"
+    kind: page
+    children: []
+  - title: Marché carbone volontaire
+    target: "/fr/termes/marche-carbone-volontaire/"
+    kind: page
+    children: []
+  - title: Net zéro
+    target: "/fr/termes/net-zero/"
+    kind: page
+    children: []
+  - title: Neutralité carbone
+    target: "/fr/termes/neutralite-carbone/"
+    kind: page
+    children: []
+  - title: Pertes et dommages associés au changement climatique
+    target: "/fr/termes/pertes-et-dommages-associes-au-changement-climatique/"
+    kind: page
+    children: []
+  - title: Puits de carbone
+    target: "/fr/termes/puits-de-carbone/"
+    kind: page
+    children: []
+  - title: Risque climatique
+    target: "/fr/termes/risque-climatique/"
+    kind: page
+    children: []
+  - title: Résilience
+    target: "/fr/termes/resilience/"
+    kind: page
+    children: []
+  - title: Système climatique
+    target: "/fr/termes/systeme-climatique/"
+    kind: page
+    children: []
+  - title: Transition énergétique
+    target: "/fr/termes/transition-energetique/"
+    kind: page
+    children: []
+  - title: Zéro émission nette (ou émission nettes zéro)
+    target: "/fr/termes/zero-emission-nette-ou-emission-nettes-zero/"
+    kind: page
+    children: []
+  - title: Biomasse
+    target: "/fr/termes/biomasse/"
+    kind: page
+    children: []
+  - title: Carbone bleu
+    target: "/fr/termes/carbone-bleu/"
+    kind: page
+    children: []
+  - title: Compensation écologique
+    target: "/fr/termes/compensation-ecologique/"
+    kind: page
+    children: []
+  - title: Décarbonation (ou décarbonisation)
+    target: "/fr/termes/decarbonation-decarbonisation/"
+    kind: page
+    children: []
+  - title: Diplomatie environnementale
+    target: "/fr/termes/diplomatie-environnementale/"
+    kind: page
+    children: []
+  - title: Écoconception
+    target: "/fr/termes/ecoconception/"
+    kind: page
+    children: []
+  - title: Économie verte
+    target: "/fr/termes/economie-verte/"
+    kind: page
+    children: []
+  - title: Mal-adaptation
+    target: "/fr/termes/mal-adaptation/"
+    kind: page
+    children: []
+  - title: Quota d’émission des gaz à effet de serre
+    target: "/fr/termes/quota-demission-des-gaz-a-effet-de-serre/"
+    kind: page
+    children: []
+  - title: " Théorie de l’effondrement"
+    target: "/fr/termes/theorie-de-leffondrement/"
+    kind: page
+    children: []
+  - title: Valorisation énergétique (des déchets)
+    target: "/fr/termes/valorisation-energetique-des-dechets/"
+    kind: page
+    children: []
+  - title: Vulnérabilité au climat
+    target: "/fr/termes/vulnerabilite-au-climat/"
+    kind: page
+    children: []
+  - title: Zone critique de biodiversité
+    target: "/fr/termes/zone-critique-de-biodiversite/"
+    kind: page
+    children: []
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/fr/equipe/"
+  kind: page
+  children:
+  - title: Équipe administrative
+    target: "/fr/equipe/equipe-administrative/"
+    kind: page
+    children: []
+  - title: Équipe éditoriale
+    target: "/fr/equipe/equipe-editoriale/"
+    kind: page
+    children: []
+  - title: Équipe de recherche
+    target: "/fr/equipe/equipe-de-recherche/"
+    kind: page
+    children: []
+  - title: Équipe pédagogique
+    target: "/fr/equipe/equipe-pedagogique/"
+    kind: page
+    children: []
+- title: Organisations
+  target: "/fr/organisations/"
+  kind: page
+  children: []
+- title: Diplômes
+  target: "/fr/diplomes/"
+  kind: page
+  children: []
+- title: Formations
+  target: "/fr/formations/"
+  kind: page
+  children: []
 
