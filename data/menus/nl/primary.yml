@@ -161,6 +161,10 @@ items:
     target: "/nl/voorwaarden/netto-nul-uitstoot-of-klimaatneutraliteit/"
     kind: page
     children: []
+  - title: Ontgroei
+    target: "/nl/voorwaarden/ontgroei/"
+    kind: page
+    children: []
   - title: Terugwinning van energie (uit afval)
     target: "/nl/voorwaarden/terugwinning-van-energie-uit-afval/"
     kind: page
