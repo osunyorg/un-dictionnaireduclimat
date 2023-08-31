@@ -41,7 +41,7 @@ items:
     target: "/nl/voorwaarden/broeikasgassen/"
     kind: page
     children: []
-  - title: CO2-neutraliteit
+  - title: CO₂-neutraliteit
     target: "/nl/voorwaarden/co2-neutraliteit/"
     kind: page
     children: []
