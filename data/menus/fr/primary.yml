@@ -208,23 +208,7 @@ items:
 - title: Équipe
   target: "/fr/equipe/"
   kind: page
-  children:
-  - title: Équipe administrative
-    target: "/fr/equipe/equipe-administrative/"
-    kind: page
-    children: []
-  - title: Équipe éditoriale
-    target: "/fr/equipe/equipe-editoriale/"
-    kind: page
-    children: []
-  - title: Équipe de recherche
-    target: "/fr/equipe/equipe-de-recherche/"
-    kind: page
-    children: []
-  - title: Équipe pédagogique
-    target: "/fr/equipe/equipe-pedagogique/"
-    kind: page
-    children: []
+  children: []
 - title: Organisations
   target: "/fr/organisations/"
   kind: page
