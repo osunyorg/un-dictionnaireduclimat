@@ -1,4 +1,60 @@
 ---
 title: Primary
-items: []
+items:
+- title: Terms
+  target: "/en/termes/"
+  kind: page
+  children:
+  - title: Adaptation
+    target: "/en/termes/adaptation/"
+    kind: page
+    children: []
+  - title: Anthropocene
+    target: "/en/termes/anthropocene/"
+    kind: page
+    children: []
+  - title: Mitigation
+    target: "/en/termes/mitigation/"
+    kind: page
+    children: []
+  - title: Climate-smart Agriculture
+    target: "/en/termes/climate-smart-agriculture/"
+    kind: page
+    children: []
+  - title: Global public good
+    target: "/en/termes/global-public-good/"
+    kind: page
+    children: []
+  - title: Biodiversity
+    target: "/en/termes/biodiversity/"
+    kind: page
+    children: []
+  - title: Climate change
+    target: "/en/termes/climate-change/"
+    kind: page
+    children: []
+  - title: Climate
+    target: "/en/termes/climate/"
+    kind: page
+    children: []
+  - title: 'Conference of the Parties (COP) '
+    target: "/en/termes/conference-of-parties-cop/"
+    kind: page
+    children: []
+  - title: Nationally Determined Contributions (NDC)
+    target: "/en/termes/nationally-determined-contributions-ndc/"
+    kind: page
+    children: []
+  - title: Growth (economic)
+    target: "/en/termes/growth-economic/"
+    kind: page
+    children: []
+  - title: Degrowth
+    target: "/en/termes/degrowth/"
+    kind: page
+    children: []
+  - title: Sustainable development
+    target: "/en/termes/sustainable-development/"
+    kind: page
+    children: []
 
