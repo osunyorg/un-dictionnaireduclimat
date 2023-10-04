@@ -29,10 +29,10 @@ jobs:
           cache: 'yarn'
 
       - name: Install JS dependencies
-        run: yarn install --frozen-lockfile
+        run: yarn install
 
       - name: Build
-        run: hugo -e production --minify
+        run: yarn build
 
       - name: Sync files
         uses: wlixcc/SFTP-Deploy-Action@v1.2.4
