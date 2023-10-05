@@ -24,7 +24,7 @@
     {{/* "/nl/voorwaarden/", but we want "/voorwaarden" */}}
     {{ $termsPath := index .Site.Home.Params.children 0 }}
     {{/* "/nl/voorwaarden/" -> "voorwaarden" */}}
-    {{ $termsPath =  index (split $termsPath "/") 2 }}
+    {{ $termsPath =  index (split $termsPath "/") 3 }}
     {{/* "voorwaarden" -> "/voorwaarden" */}}
     {{ $termsPath = printf "/%s" $termsPath }}
 
