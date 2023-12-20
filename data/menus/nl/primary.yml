@@ -165,24 +165,4 @@ items:
     target: "/nl/voorwaarden/ontgroei/"
     kind: page
     children: []
-  - title: Terugwinning van energie (uit afval)
-    target: "/nl/voorwaarden/terugwinning-van-energie-uit-afval/"
-    kind: page
-    children: []
-  - title: Veerkracht
-    target: "/nl/voorwaarden/veerkracht/"
-    kind: page
-    children: []
-  - title: Verlies en schade als gevolg van klimaatverandering
-    target: "/nl/voorwaarden/verlies-en-schade-als-gevolg-van-klimaatverandering/"
-    kind: page
-    children: []
-  - title: Vrijwillige koolstofmarkt
-    target: "/nl/voorwaarden/vrijwillige-koolstofmarkt/"
-    kind: page
-    children: []
-- title: Team
-  target: "/nl/team/"
-  kind: page
-  children: []
 
