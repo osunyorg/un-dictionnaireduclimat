@@ -221,4 +221,8 @@ items:
   target: "/fr/formations/"
   kind: page
   children: []
+- title: Campus
+  target: "/fr/campus/"
+  kind: page
+  children: []
 
