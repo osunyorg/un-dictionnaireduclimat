@@ -8,7 +8,7 @@
         </a>
       </span>
       <p>
-        {{ with .GetPage "/" }} 
+        {{ with .GetPage "/" }}
           {{ .Params.description_short }}
         {{ end }}
       </p>
@@ -24,7 +24,7 @@
     {{/* "/nl/voorwaarden/", but we want "/voorwaarden" */}}
     {{ $termsPath := index .Site.Home.Params.children 0 }}
     {{/* "/nl/voorwaarden/" -> "voorwaarden" */}}
-    {{ $termsPath =  index (split $termsPath "/") 3 }}
+    {{ $termsPath =  index (split $termsPath "/") 1 }}
     {{/* "voorwaarden" -> "/voorwaarden" */}}
     {{ $termsPath = printf "/%s" $termsPath }}
 
@@ -52,7 +52,7 @@
           {{ end }}
         {{ end }}
       {{ end }}
-    {{ end }} 
+    {{ end }}
   </div>
 </div>
 <div class="lines">
