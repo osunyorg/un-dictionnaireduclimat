@@ -9,3 +9,5 @@ params:
     position: content
   logo:
     footer: "/assets/images/UN_logo_stacked_French.svg"
+  debug:
+     productionUrl: "https://dico.unric.org"

@@ -8,6 +8,8 @@ header#document-header
     nav[role="navigation"]
         .container
             align-items: flex-start
+    button
+        display: none
     .logo
         text-decoration: none
         font-family: $heading-font-family
@@ -22,7 +24,7 @@ header#document-header
                 display: block
         @include media-breakpoint-up(desktop)
             text-align: right
-            max-width: col(3)
+            max-width: columns(3)
             min-width: 200px
             margin-left: auto
             margin-top: 4px
@@ -57,7 +59,7 @@ h1
                 margin-top: 6rem
     
     @include media-breakpoint-down(desktop)
-        padding-top: $spacing2
+        padding-top: $spacing-4
         h1
             word-break: break-word
             hyphens: auto
@@ -73,14 +75,14 @@ h1
         .rich-text
             *
                 line-height: 160%
-                font-size: px2rem(24)
+                font-size: pxToRem(24)
 
 footer#document-footer
-    margin-top: $spacing4
+    margin-top: $spacing-6
     border-top: 2px solid $color-accent
     .footer-credit
         align-self: end
-        font-size: px2rem(14)
+        font-size: pxToRem(14)
     .footer-social
         display: none
     .logo
@@ -91,4 +93,4 @@ footer#document-footer
         .footer-site
             width: 50%
             text-align: left
-            padding-left: half($grid-gutter)
+            padding-left: $spacing-1
