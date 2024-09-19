@@ -185,4 +185,8 @@ items:
   target: "/nl/team/"
   kind: page
   children: []
+- title: Privacy Policy
+  target: "/nl/privacy-policy/"
+  kind: page
+  children: []
 
