@@ -1,8 +1,8 @@
 ---
 title: Legal
 items:
-- title: Mentions légales
-  target: "/en/mentions-legales/"
+- title: Legal terms
+  target: "/en/legal-terms/"
   kind: page
   children: []
 
