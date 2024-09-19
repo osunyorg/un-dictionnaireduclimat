@@ -5,4 +5,8 @@ items:
   target: "/en/legal-terms/"
   kind: page
   children: []
+- title: Acessibility
+  target: "/en/acessibility/"
+  kind: page
+  children: []
 
