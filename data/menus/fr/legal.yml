@@ -5,4 +5,8 @@ items:
   target: "/fr/mentions-legales/"
   kind: page
   children: []
+- title: Accessibilité
+  target: "/fr/accessibilite/"
+  kind: page
+  children: []
 
