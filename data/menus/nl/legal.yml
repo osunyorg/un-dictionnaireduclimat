@@ -5,4 +5,8 @@ items:
   target: "/nl/legal-credit/"
   kind: page
   children: []
+- title: Accessibility
+  target: "/nl/accessibility/"
+  kind: page
+  children: []
 
