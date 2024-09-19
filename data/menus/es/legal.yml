@@ -1,4 +1,8 @@
 ---
 title: Legal
-items: []
+items:
+- title: Credits
+  target: "/es/credits/"
+  kind: page
+  children: []
 
