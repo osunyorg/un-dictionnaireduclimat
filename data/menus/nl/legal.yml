@@ -9,4 +9,8 @@ items:
   target: "/nl/accessibility/"
   kind: page
   children: []
+- title: Privacy Policy
+  target: "/nl/privacy-policy/"
+  kind: page
+  children: []
 
