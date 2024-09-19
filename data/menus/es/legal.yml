@@ -5,4 +5,8 @@ items:
   target: "/es/credits/"
   kind: page
   children: []
+- title: Accesibilidad
+  target: "/es/accesibilidad/"
+  kind: page
+  children: []
 
