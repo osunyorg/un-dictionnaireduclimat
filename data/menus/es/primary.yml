@@ -9,4 +9,8 @@ items:
   target: "/es/accesibilidad/"
   kind: page
   children: []
+- title: Política de privacidad
+  target: "/es/politica-de-privacidad/"
+  kind: page
+  children: []
 
