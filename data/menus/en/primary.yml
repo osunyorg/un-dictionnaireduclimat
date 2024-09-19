@@ -57,4 +57,8 @@ items:
     target: "/en/termes/sustainable-development/"
     kind: page
     children: []
+- title: Acessibility
+  target: "/en/acessibility/"
+  kind: page
+  children: []
 
