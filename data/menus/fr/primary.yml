@@ -225,4 +225,24 @@ items:
   target: "/fr/campus/"
   kind: page
   children: []
+- title: Agenda
+  target: "/fr/agenda/"
+  kind: page
+  children: []
+- title: Projets
+  target: "/fr/projets/"
+  kind: page
+  children: []
+- title: Volumes
+  target: "/fr/volumes/"
+  kind: page
+  children: []
+- title: Papiers
+  target: "/fr/papiers/"
+  kind: page
+  children: []
+- title: Publications HAL
+  target: "/fr/publications/"
+  kind: page
+  children: []
 
