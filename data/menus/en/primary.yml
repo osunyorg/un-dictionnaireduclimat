@@ -9,16 +9,16 @@ items:
     target: "/en/termes/adaptation/"
     kind: page
     children: []
+  - title: Climate-smart Agriculture
+    target: "/en/termes/climate-smart-agriculture/"
+    kind: page
+    children: []
   - title: Anthropocene
     target: "/en/termes/anthropocene/"
     kind: page
     children: []
   - title: Mitigation
     target: "/en/termes/mitigation/"
-    kind: page
-    children: []
-  - title: Climate-smart Agriculture
-    target: "/en/termes/climate-smart-agriculture/"
     kind: page
     children: []
   - title: Global public good
@@ -63,6 +63,30 @@ items:
   children: []
 - title: Privacy Policy
   target: "/en/privacy-policy/"
+  kind: page
+  children: []
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
+- title: Organizations
+  target: "/en/organizations/"
+  kind: page
+  children: []
+- title: Diplomas
+  target: "/en/diplomas/"
+  kind: page
+  children: []
+- title: Programs
+  target: "/en/programs/"
+  kind: page
+  children: []
+- title: Campus
+  target: "/en/campus/"
   kind: page
   children: []
 
