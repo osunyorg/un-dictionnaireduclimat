@@ -209,24 +209,4 @@ items:
   target: "/nl/campus/"
   kind: page
   children: []
-- title: Agenda
-  target: "/nl/agenda/"
-  kind: page
-  children: []
-- title: Projets
-  target: "/nl/projets/"
-  kind: page
-  children: []
-- title: Volumes
-  target: "/nl/volumes/"
-  kind: page
-  children: []
-- title: Papiers
-  target: "/nl/papiers/"
-  kind: page
-  children: []
-- title: Publications HAL
-  target: "/nl/publications/"
-  kind: page
-  children: []
 
