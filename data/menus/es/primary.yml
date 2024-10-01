@@ -37,24 +37,4 @@ items:
   target: "/es/campus/"
   kind: page
   children: []
-- title: Agenda
-  target: "/es/agenda/"
-  kind: page
-  children: []
-- title: Projets
-  target: "/es/projets/"
-  kind: page
-  children: []
-- title: Volumes
-  target: "/es/volumes/"
-  kind: page
-  children: []
-- title: Papiers
-  target: "/es/papiers/"
-  kind: page
-  children: []
-- title: Publications HAL
-  target: "/es/publications/"
-  kind: page
-  children: []
 
