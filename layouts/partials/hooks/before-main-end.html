@@ -7,11 +7,11 @@
           <img src="{{ $image.Permalink }}" alt="" height="500" width="500">
         </a>
       </span>
-      <p>
+      <div>
         {{ with .GetPage "/" }}
-          {{ .Params.summary }}
+          {{ .Params.summary | safeHTML }}
         {{ end }}
-      </p>
+      </div>
       <ul>
     {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
     {{ $slug := index (split .RelPermalink "/") 3 }}
