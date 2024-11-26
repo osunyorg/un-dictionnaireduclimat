@@ -9,204 +9,256 @@ items:
     target: "/nl/voorwaarden/adaptatie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/adaptatie/_index.html
   - title: Klimaatslimme landbouw
     target: "/nl/voorwaarden/klimaatslimme-landbouw/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/klimaatslimme-landbouw/_index.html
   - title: Antropoceen
     target: "/nl/voorwaarden/antropoceen/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/antropoceen/_index.html
   - title: Beperking (of mitigatie)
     target: "/nl/voorwaarden/beperking-of-mitigatie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/beperking-of-mitigatie/_index.html
   - title: Mondiaal publiek goed
     target: "/nl/voorwaarden/mondiaal-publiek-goed/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/mondiaal-publiek-goed/_index.html
   - title: Biobrandstof
     target: "/nl/voorwaarden/biobrandstof/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/biobrandstof/_index.html
   - title: Biodiversiteit
     target: "/nl/voorwaarden/biodiversiteit/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/biodiversiteit/_index.html
   - title: Energiemix
     target: "/nl/voorwaarden/energiemix/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/energiemix/_index.html
   - title: Klimaatverandering
     target: "/nl/voorwaarden/klimaatverandering/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/klimaatverandering/_index.html
   - title: Klimaat
     target: "/nl/voorwaarden/klimaat/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/klimaat/_index.html
   - title: Conferentie van de Partijen (COP)
     target: "/nl/voorwaarden/conferentie-van-de-partijen-cop/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/conferentie-van-de-partijen-cop/_index.html
   - title: Nationaal bepaalde bijdragen (NDC’s)
     target: "/nl/voorwaarden/nationaal-bepaalde-bijdragen-ndc-s/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/nationaal-bepaalde-bijdragen-ndc-s/_index.html
   - title: Groei (economisch)
     target: "/nl/voorwaarden/groei-economisch/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/groei-economisch/_index.html
   - title: Degrowth
     target: "/nl/voorwaarden/degrowth/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/degrowth/_index.html
   - title: Duurzame ontwikkeling
     target: "/nl/voorwaarden/duurzame-ontwikkeling/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/duurzame-ontwikkeling/_index.html
   - title: Ecosysteem
     target: "/nl/voorwaarden/ecosysteme/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/ecosysteme/_index.html
   - title: Fossiele energie
     target: "/nl/voorwaarden/fossiele-energie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/fossiele-energie/_index.html
   - title: Massa-extinctie
     target: "/nl/voorwaarden/massa-extinctie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/massa-extinctie/_index.html
   - title: Klimaatfinanciering
     target: "/nl/voorwaarden/klimaatfinanciering/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/klimaatfinanciering/_index.html
   - title: Groene financiering
     target: "/nl/voorwaarden/groene-financiering/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/groene-financiering/_index.html
   - title: Broeikasgassen
     target: "/nl/voorwaarden/broeikasgassen/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/broeikasgassen/_index.html
   - title: Intergouvernementele Werkgroep inzake Klimaatverandering (IPCC)
     target: "/nl/voorwaarden/intergouvernementele-werkgroep-inzake-klimaatverandering-ipcc/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/intergouvernementele-werkgroep-inzake-klimaatverandering-ipcc/_index.html
   - title: Klimaatimpact
     target: "/nl/voorwaarden/klimaatimpact/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/klimaatimpact/_index.html
   - title: Intergenerationele rechtvaardigheid
     target: "/nl/voorwaarden/intergenerationele-rechtvaardigheid/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/intergenerationele-rechtvaardigheid/_index.html
   - title: Gereguleerde koolstofmarkt
     target: "/nl/voorwaarden/gereguleerde-koolstofmarkt/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/gereguleerde-koolstofmarkt/_index.html
   - title: Vrijwillige koolstofmarkt
     target: "/nl/voorwaarden/vrijwillige-koolstofmarkt/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/vrijwillige-koolstofmarkt/_index.html
   - title: CO₂-neutraliteit
     target: "/nl/voorwaarden/co2-neutraliteit/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/co2-neutraliteit/_index.html
   - title: Verlies en schade als gevolg van klimaatverandering
     target: "/nl/voorwaarden/verlies-en-schade-als-gevolg-van-klimaatverandering/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/verlies-en-schade-als-gevolg-van-klimaatverandering/_index.html
   - title: Koolstofput
     target: "/nl/voorwaarden/koolstofput/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/koolstofput/_index.html
   - title: Klimaatrisico
     target: "/nl/voorwaarden/klimaatrisico/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/klimaatrisico/_index.html
   - title: Veerkracht
     target: "/nl/voorwaarden/veerkracht/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/veerkracht/_index.html
   - title: Klimaatsysteem
     target: "/nl/voorwaarden/klimaatsysteem/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/klimaatsysteem/_index.html
   - title: Energietransitie
     target: "/nl/voorwaarden/transition-energetique/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/transition-energetique/_index.html
   - title: Netto nul uitstoot (of klimaatneutraliteit)
     target: "/nl/voorwaarden/netto-nul-uitstoot-of-klimaatneutraliteit/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/netto-nul-uitstoot-of-klimaatneutraliteit/_index.html
   - title: Blauwe koolstof
     target: "/nl/voorwaarden/blauwe-koolstof/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/blauwe-koolstof/_index.html
   - title: Natuurcompensatie
     target: "/nl/voorwaarden/natuurcompensatie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/natuurcompensatie/_index.html
   - title: Decarbonisatie
     target: "/nl/voorwaarden/decarbonisatie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/decarbonisatie/_index.html
   - title: Ontgroei
     target: "/nl/voorwaarden/ontgroei/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/ontgroei/_index.html
   - title: Milieudiplomatie
     target: "/nl/voorwaarden/milieudiplomatie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/milieudiplomatie/_index.html
   - title: Ecodesign
     target: "/nl/voorwaarden/ecodesign/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/ecodesign/_index.html
   - title: Maladaptatie
     target: "/nl/voorwaarden/maladaptatie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/maladaptatie/_index.html
   - title: Instortingstheorie
     target: "/nl/voorwaarden/instortingstheorie/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/instortingstheorie/_index.html
   - title: Terugwinning van energie (uit afval)
     target: "/nl/voorwaarden/terugwinning-van-energie-uit-afval/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/terugwinning-van-energie-uit-afval/_index.html
   - title: Kwetsbaarheid voor het klimaat
     target: "/nl/voorwaarden/kwetsbaarheid-voor-het-klimaat/"
     kind: page
     children: []
+    file: content/nl/pages/voorwaarden/kwetsbaarheid-voor-het-klimaat/_index.html
+  file: content/nl/pages/voorwaarden/_index.html
 - title: Privacy Policy
   target: "/nl/privacy-policy/"
   kind: page
   children: []
+  file: content/nl/pages/privacy-policy/_index.html
 - title: Actualités
   target: "/nl/actualites/"
   kind: page
   children: []
+  file: content/nl/posts/_index.html
 - title: Team
   target: "/nl/team/"
   kind: page
   children: []
+  file: content/nl/persons/_index.html
 - title: Organisations
   target: "/nl/organisations/"
   kind: page
   children: []
+  file: content/nl/organizations/_index.html
 - title: Diplômes
   target: "/nl/diplomes/"
   kind: page
   children: []
+  file: content/nl/diplomas/_index.html
 - title: Formations
   target: "/nl/formations/"
   kind: page
   children: []
+  file: content/nl/programs/_index.html
 - title: Campus
   target: "/nl/campus/"
   kind: page
   children: []
+  file: content/nl/locations/_index.html
 

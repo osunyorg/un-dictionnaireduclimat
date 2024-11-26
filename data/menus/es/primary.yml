@@ -5,36 +5,45 @@ items:
   target: "/es/credits/"
   kind: page
   children: []
+  file: content/es/pages/credits/_index.html
 - title: Accesibilidad
   target: "/es/accesibilidad/"
   kind: page
   children: []
+  file: content/es/pages/accesibilidad/_index.html
 - title: Política de privacidad
   target: "/es/politica-de-privacidad/"
   kind: page
   children: []
+  file: content/es/pages/politica-de-privacidad/_index.html
 - title: Actualités
   target: "/es/actualites/"
   kind: page
   children: []
+  file: content/es/posts/_index.html
 - title: Équipe
   target: "/es/equipe/"
   kind: page
   children: []
+  file: content/es/persons/_index.html
 - title: Organisations
   target: "/es/organisations/"
   kind: page
   children: []
+  file: content/es/organizations/_index.html
 - title: Diplômes
   target: "/es/diplomes/"
   kind: page
   children: []
+  file: content/es/diplomas/_index.html
 - title: Formations
   target: "/es/formations/"
   kind: page
   children: []
+  file: content/es/programs/_index.html
 - title: Campus
   target: "/es/campus/"
   kind: page
   children: []
+  file: content/es/locations/_index.html
 
