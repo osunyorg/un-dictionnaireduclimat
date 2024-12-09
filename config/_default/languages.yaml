@@ -7,7 +7,8 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
+    contact_details:
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
@@ -31,7 +32,8 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
+    contact_details:
+
   permalinks:
     posts: /posts/:year-:month-:day-:slug/
     posts_categories: /posts/:slug/
@@ -55,7 +57,8 @@ es:
   languageCode: es
   languageName: Español
   params:
-    social:
+    contact_details:
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
@@ -79,7 +82,8 @@ nl:
   languageCode: nl
   languageName: Nederlands
   params:
-    social:
+    contact_details:
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
