@@ -5,15 +5,18 @@ items:
   target: "/nl/legal-credit/"
   kind: page
   children: []
+  path: "/pages/legal-credit"
   file: content/nl/pages/legal-credit/_index.html
 - title: Accessibility
   target: "/nl/accessibility/"
   kind: page
   children: []
+  path: "/pages/accessibility"
   file: content/nl/pages/accessibility/_index.html
 - title: Privacy Policy
   target: "/nl/privacy-policy/"
   kind: page
   children: []
+  path: "/pages/privacy-policy"
   file: content/nl/pages/privacy-policy/_index.html
 

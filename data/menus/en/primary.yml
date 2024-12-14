@@ -9,106 +9,128 @@ items:
     target: "/en/termes/adaptation/"
     kind: page
     children: []
+    path: "/pages/termes/adaptation"
     file: content/en/pages/termes/adaptation/_index.html
   - title: Climate-smart Agriculture
     target: "/en/termes/climate-smart-agriculture/"
     kind: page
     children: []
+    path: "/pages/termes/climate-smart-agriculture"
     file: content/en/pages/termes/climate-smart-agriculture/_index.html
   - title: Anthropocene
     target: "/en/termes/anthropocene/"
     kind: page
     children: []
+    path: "/pages/termes/anthropocene"
     file: content/en/pages/termes/anthropocene/_index.html
   - title: Mitigation
     target: "/en/termes/mitigation/"
     kind: page
     children: []
+    path: "/pages/termes/mitigation"
     file: content/en/pages/termes/mitigation/_index.html
   - title: Global public good
     target: "/en/termes/global-public-good/"
     kind: page
     children: []
+    path: "/pages/termes/global-public-good"
     file: content/en/pages/termes/global-public-good/_index.html
   - title: Biodiversity
     target: "/en/termes/biodiversity/"
     kind: page
     children: []
+    path: "/pages/termes/biodiversity"
     file: content/en/pages/termes/biodiversity/_index.html
   - title: Climate change
     target: "/en/termes/climate-change/"
     kind: page
     children: []
+    path: "/pages/termes/climate-change"
     file: content/en/pages/termes/climate-change/_index.html
   - title: Climate
     target: "/en/termes/climate/"
     kind: page
     children: []
+    path: "/pages/termes/climate"
     file: content/en/pages/termes/climate/_index.html
   - title: 'Conference of the Parties (COP) '
     target: "/en/termes/conference-of-parties-cop/"
     kind: page
     children: []
+    path: "/pages/termes/conference-of-parties-cop"
     file: content/en/pages/termes/conference-of-parties-cop/_index.html
   - title: Nationally Determined Contributions (NDC)
     target: "/en/termes/nationally-determined-contributions-ndc/"
     kind: page
     children: []
+    path: "/pages/termes/nationally-determined-contributions-ndc"
     file: content/en/pages/termes/nationally-determined-contributions-ndc/_index.html
   - title: Growth (economic)
     target: "/en/termes/growth-economic/"
     kind: page
     children: []
+    path: "/pages/termes/growth-economic"
     file: content/en/pages/termes/growth-economic/_index.html
   - title: Degrowth
     target: "/en/termes/degrowth/"
     kind: page
     children: []
+    path: "/pages/termes/degrowth"
     file: content/en/pages/termes/degrowth/_index.html
   - title: Sustainable development
     target: "/en/termes/sustainable-development/"
     kind: page
     children: []
+    path: "/pages/termes/sustainable-development"
     file: content/en/pages/termes/sustainable-development/_index.html
+  path: "/pages/termes"
   file: content/en/pages/termes/_index.html
 - title: Acessibility
   target: "/en/acessibility/"
   kind: page
   children: []
+  path: "/pages/acessibility"
   file: content/en/pages/acessibility/_index.html
 - title: Privacy Policy
   target: "/en/privacy-policy/"
   kind: page
   children: []
+  path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html
 - title: Posts
   target: "/en/posts/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 - title: Team
   target: "/en/team/"
   kind: page
   children: []
+  path: "/persons"
   file: content/en/persons/_index.html
 - title: Organizations
   target: "/en/organizations/"
   kind: page
   children: []
+  path: "/organizations"
   file: content/en/organizations/_index.html
 - title: Diplomas
   target: "/en/diplomas/"
   kind: page
   children: []
+  path: "/diplomas"
   file: content/en/diplomas/_index.html
 - title: Programs
   target: "/en/programs/"
   kind: page
   children: []
+  path: "/programs"
   file: content/en/programs/_index.html
 - title: Campus
   target: "/en/campus/"
   kind: page
   children: []
+  path: "/locations"
   file: content/en/locations/_index.html
 

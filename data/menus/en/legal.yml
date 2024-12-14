@@ -5,15 +5,18 @@ items:
   target: "/en/legal-terms/"
   kind: page
   children: []
+  path: "/pages/legal-terms"
   file: content/en/pages/legal-terms/_index.html
 - title: Acessibility
   target: "/en/acessibility/"
   kind: page
   children: []
+  path: "/pages/acessibility"
   file: content/en/pages/acessibility/_index.html
 - title: Privacy Policy
   target: "/en/privacy-policy/"
   kind: page
   children: []
+  path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html
 
