@@ -4,18 +4,21 @@ items:
 - title: Credits
   target: "/es/credits/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/credits"
   file: content/es/pages/credits/_index.html
 - title: Accesibilidad
   target: "/es/accesibilidad/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/accesibilidad"
   file: content/es/pages/accesibilidad/_index.html
 - title: Política de privacidad
   target: "/es/politica-de-privacidad/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/politica-de-privacidad"
   file: content/es/pages/politica-de-privacidad/_index.html
