@@ -4,298 +4,348 @@ items:
 - title: Termes
   target: "/fr/termes/"
   kind: page
+  new_tab: false
   children:
   - title: Adaptation
     target: "/fr/termes/adaptation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/adaptation"
     file: content/fr/pages/termes/adaptation/_index.html
   - title: Agriculture intelligente face au climat
     target: "/fr/termes/agriculture-intelligente-face-au-climat/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/agriculture-intelligente-face-au-climat"
     file: content/fr/pages/termes/agriculture-intelligente-face-au-climat/_index.html
   - title: Anthropocène
     target: "/fr/termes/anthropocene/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/anthropocene"
     file: content/fr/pages/termes/anthropocene/_index.html
   - title: Atténuation (ou mitigation)
     target: "/fr/termes/attenuation-ou-mitigation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/attenuation-ou-mitigation"
     file: content/fr/pages/termes/attenuation-ou-mitigation/_index.html
   - title: Bien public mondial
     target: "/fr/termes/bien-public-mondial/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/bien-public-mondial"
     file: content/fr/pages/termes/bien-public-mondial/_index.html
   - title: Biocarburant
     target: "/fr/termes/biocarburant/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/biocarburant"
     file: content/fr/pages/termes/biocarburant/_index.html
   - title: Biodiversité
     target: "/fr/termes/biodiversite/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/biodiversite"
     file: content/fr/pages/termes/biodiversite/_index.html
   - title: Bouquet énergétique
     target: "/fr/termes/bouquet-energetique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/bouquet-energetique"
     file: content/fr/pages/termes/bouquet-energetique/_index.html
   - title: Changement climatique
     target: "/fr/termes/changement-climatique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/changement-climatique"
     file: content/fr/pages/termes/changement-climatique/_index.html
   - title: Climat
     target: "/fr/termes/climat/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/climat"
     file: content/fr/pages/termes/climat/_index.html
   - title: Conférence des Parties (COP)
     target: "/fr/termes/conference-des-parties-cop/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/conference-des-parties-cop"
     file: content/fr/pages/termes/conference-des-parties-cop/_index.html
   - title: Contributions déterminées au niveau national (NDC)
     target: "/fr/termes/contributions-determinees-au-niveau-national-ndc/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/contributions-determinees-au-niveau-national-ndc"
     file: content/fr/pages/termes/contributions-determinees-au-niveau-national-ndc/_index.html
   - title: Croissance (économique)
     target: "/fr/termes/croissance-economique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/croissance-economique"
     file: content/fr/pages/termes/croissance-economique/_index.html
   - title: Décroissance
     target: "/fr/termes/decroissance/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/decroissance"
     file: content/fr/pages/termes/decroissance/_index.html
   - title: Développement durable
     target: "/fr/termes/developpement-durable/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/developpement-durable"
     file: content/fr/pages/termes/developpement-durable/_index.html
   - title: Écosystème
     target: "/fr/termes/ecosysteme/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/ecosysteme"
     file: content/fr/pages/termes/ecosysteme/_index.html
   - title: Énergie fossile
     target: "/fr/termes/energie-fossile/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/energie-fossile"
     file: content/fr/pages/termes/energie-fossile/_index.html
   - title: Équité intergénérationnelle
     target: "/fr/termes/equite-intergenerationnelle/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/equite-intergenerationnelle"
     file: content/fr/pages/termes/equite-intergenerationnelle/_index.html
   - title: Extinction de masse
     target: "/fr/termes/extinction-de-masse/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/extinction-de-masse"
     file: content/fr/pages/termes/extinction-de-masse/_index.html
   - title: Financement pour le climat
     target: "/fr/termes/financement-pour-le-climat/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/financement-pour-le-climat"
     file: content/fr/pages/termes/financement-pour-le-climat/_index.html
   - title: Finance verte
     target: "/fr/termes/finance-verte/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/finance-verte"
     file: content/fr/pages/termes/finance-verte/_index.html
   - title: Gaz à effets de serre
     target: "/fr/termes/gaz-a-effets-de-serre/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/gaz-a-effets-de-serre"
     file: content/fr/pages/termes/gaz-a-effets-de-serre/_index.html
   - title: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC)
     target: "/fr/termes/groupe-dexperts-intergouvernemental-sur-levolution-du-climat-giec/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/groupe-dexperts-intergouvernemental-sur-levolution-du-climat-giec"
     file: content/fr/pages/termes/groupe-dexperts-intergouvernemental-sur-levolution-du-climat-giec/_index.html
   - title: Impact climatique
     target: "/fr/termes/impact-climatique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/impact-climatique"
     file: content/fr/pages/termes/impact-climatique/_index.html
   - title: Justice environnementale
     target: "/fr/termes/justice-environnementale/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/justice-environnementale"
     file: content/fr/pages/termes/justice-environnementale/_index.html
   - title: Marché carbone réglementé
     target: "/fr/termes/marche-carbone-reglemente/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/marche-carbone-reglemente"
     file: content/fr/pages/termes/marche-carbone-reglemente/_index.html
   - title: Marché carbone volontaire
     target: "/fr/termes/marche-carbone-volontaire/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/marche-carbone-volontaire"
     file: content/fr/pages/termes/marche-carbone-volontaire/_index.html
   - title: Net zéro
     target: "/fr/termes/net-zero/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/net-zero"
     file: content/fr/pages/termes/net-zero/_index.html
   - title: Neutralité carbone
     target: "/fr/termes/neutralite-carbone/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/neutralite-carbone"
     file: content/fr/pages/termes/neutralite-carbone/_index.html
   - title: Pertes et dommages associés au changement climatique
     target: "/fr/termes/pertes-et-dommages-associes-au-changement-climatique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/pertes-et-dommages-associes-au-changement-climatique"
     file: content/fr/pages/termes/pertes-et-dommages-associes-au-changement-climatique/_index.html
   - title: Puits de carbone
     target: "/fr/termes/puits-de-carbone/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/puits-de-carbone"
     file: content/fr/pages/termes/puits-de-carbone/_index.html
   - title: Risque climatique
     target: "/fr/termes/risque-climatique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/risque-climatique"
     file: content/fr/pages/termes/risque-climatique/_index.html
   - title: Résilience
     target: "/fr/termes/resilience/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/resilience"
     file: content/fr/pages/termes/resilience/_index.html
   - title: Système climatique
     target: "/fr/termes/systeme-climatique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/systeme-climatique"
     file: content/fr/pages/termes/systeme-climatique/_index.html
   - title: Transition énergétique
     target: "/fr/termes/transition-energetique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/transition-energetique"
     file: content/fr/pages/termes/transition-energetique/_index.html
   - title: Zéro émission nette (ou émission nettes zéro)
     target: "/fr/termes/zero-emission-nette-ou-emission-nettes-zero/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/zero-emission-nette-ou-emission-nettes-zero"
     file: content/fr/pages/termes/zero-emission-nette-ou-emission-nettes-zero/_index.html
   - title: Biomasse
     target: "/fr/termes/biomasse/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/biomasse"
     file: content/fr/pages/termes/biomasse/_index.html
   - title: Carbone bleu
     target: "/fr/termes/carbone-bleu/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/carbone-bleu"
     file: content/fr/pages/termes/carbone-bleu/_index.html
   - title: Compensation écologique
     target: "/fr/termes/compensation-ecologique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/compensation-ecologique"
     file: content/fr/pages/termes/compensation-ecologique/_index.html
   - title: Décarbonation (ou décarbonisation)
     target: "/fr/termes/decarbonation-decarbonisation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/decarbonation-decarbonisation"
     file: content/fr/pages/termes/decarbonation-decarbonisation/_index.html
   - title: Diplomatie environnementale
     target: "/fr/termes/diplomatie-environnementale/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/diplomatie-environnementale"
     file: content/fr/pages/termes/diplomatie-environnementale/_index.html
   - title: Écoconception
     target: "/fr/termes/ecoconception/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/ecoconception"
     file: content/fr/pages/termes/ecoconception/_index.html
   - title: Économie verte
     target: "/fr/termes/economie-verte/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/economie-verte"
     file: content/fr/pages/termes/economie-verte/_index.html
   - title: Mal-adaptation
     target: "/fr/termes/mal-adaptation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/mal-adaptation"
     file: content/fr/pages/termes/mal-adaptation/_index.html
   - title: Quota d’émission des gaz à effet de serre
     target: "/fr/termes/quota-demission-des-gaz-a-effet-de-serre/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/quota-demission-des-gaz-a-effet-de-serre"
     file: content/fr/pages/termes/quota-demission-des-gaz-a-effet-de-serre/_index.html
   - title: Théorie de l’effondrement
     target: "/fr/termes/theorie-de-leffondrement/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/theorie-de-leffondrement"
     file: content/fr/pages/termes/theorie-de-leffondrement/_index.html
   - title: Valorisation énergétique (des déchets)
     target: "/fr/termes/valorisation-energetique-des-dechets/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/valorisation-energetique-des-dechets"
     file: content/fr/pages/termes/valorisation-energetique-des-dechets/_index.html
   - title: Vulnérabilité au climat
     target: "/fr/termes/vulnerabilite-au-climat/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/vulnerabilite-au-climat"
     file: content/fr/pages/termes/vulnerabilite-au-climat/_index.html
   - title: Zone critique de biodiversité
     target: "/fr/termes/zone-critique-de-biodiversite/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/termes/zone-critique-de-biodiversite"
     file: content/fr/pages/termes/zone-critique-de-biodiversite/_index.html
@@ -304,36 +354,42 @@ items:
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
   target: "/fr/equipe/"
   kind: page
+  new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Organisations
   target: "/fr/organisations/"
   kind: page
+  new_tab: false
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: Diplômes
   target: "/fr/diplomes/"
   kind: page
+  new_tab: false
   children: []
   path: "/diplomas"
   file: content/fr/diplomas/_index.html
 - title: Formations
   target: "/fr/formations/"
   kind: page
+  new_tab: false
   children: []
   path: "/programs"
   file: content/fr/programs/_index.html
 - title: Campus
   target: "/fr/campus/"
   kind: page
+  new_tab: false
   children: []
   path: "/locations"
   file: content/fr/locations/_index.html
