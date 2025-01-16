@@ -7,4 +7,9 @@
     {{ partial "footer/legals.html" }}
   </div>
 </div>
-{{ partial "footer/i18n.html" . }}
+<div class="container">
+  {{ partial "commons/i18n.html" (dict
+      "context" .
+      "position" "footer"
+    )}}
+</div>
