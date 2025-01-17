@@ -9,5 +9,8 @@ params:
     position: content
   logo:
     footer: "/assets/images/UN_logo_stacked_French.svg"
+  i18n:
+    positions:
+      - primary
   debug:
-     productionUrl: "https://dico.unric.org"
+    productionUrl: "https://dico.unric.org"
