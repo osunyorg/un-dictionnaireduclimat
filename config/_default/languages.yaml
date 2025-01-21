@@ -10,6 +10,7 @@ fr:
     contact_details:
 
   permalinks:
+    pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
   taxonomies:
@@ -19,6 +20,7 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -35,6 +37,7 @@ en:
     contact_details:
 
   permalinks:
+    pages_categories: /:slug/
     posts: /posts/:year-:month-:day-:slug/
     posts_categories: /posts/:slug/
   taxonomies:
@@ -44,6 +47,7 @@ en:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -60,6 +64,7 @@ es:
     contact_details:
 
   permalinks:
+    pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
   taxonomies:
@@ -69,6 +74,7 @@ es:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -85,6 +91,7 @@ nl:
     contact_details:
 
   permalinks:
+    pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
   taxonomies:
@@ -94,6 +101,7 @@ nl:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
