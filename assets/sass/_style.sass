@@ -90,8 +90,15 @@ footer#document-footer
         img 
             width: 220px
             height: auto
+    .footer-i18n
+        .dropdown-languages
+            @include meta
     @include media-breakpoint-up(desktop)
         .footer-site
             width: 50%
             text-align: left
             padding-left: $spacing-1
+        .footer-i18n
+            .dropdown-languages
+                li > a
+                    padding: $spacing-1 $spacing-2
