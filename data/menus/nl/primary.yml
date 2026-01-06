@@ -1,6 +1,13 @@
 ---
 title: Primary
 items:
+- title: Écoles
+  target: "/nl/ecoles/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/schools"
+  file: content/nl/schools/_index.html
 - title: Voorwaarden
   target: "/nl/voorwaarden/"
   kind: page
@@ -258,13 +265,6 @@ items:
     children: []
     path: "/pages/voorwaarden/natuurcompensatie"
     file: content/nl/pages/voorwaarden/natuurcompensatie/_index.html
-  - title: Ontgroei
-    target: "/nl/voorwaarden/ontgroei/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/voorwaarden/ontgroei"
-    file: content/nl/pages/voorwaarden/ontgroei/_index.html
   - title: Decarbonisatie
     target: "/nl/voorwaarden/decarbonisatie/"
     kind: page
@@ -272,6 +272,13 @@ items:
     children: []
     path: "/pages/voorwaarden/decarbonisatie"
     file: content/nl/pages/voorwaarden/decarbonisatie/_index.html
+  - title: Ontgroei
+    target: "/nl/voorwaarden/ontgroei/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/voorwaarden/ontgroei"
+    file: content/nl/pages/voorwaarden/ontgroei/_index.html
   - title: Milieudiplomatie
     target: "/nl/voorwaarden/milieudiplomatie/"
     kind: page

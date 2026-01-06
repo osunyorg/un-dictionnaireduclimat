@@ -1,6 +1,13 @@
 ---
 title: Primary
 items:
+- title: Écoles
+  target: "/fr/ecoles/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/schools"
+  file: content/fr/schools/_index.html
 - title: Termes
   target: "/fr/termes/"
   kind: page
