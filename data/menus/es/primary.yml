@@ -16,7 +16,7 @@ items:
   path: "/pages/accesibilidad"
   file: content/es/pages/accesibilidad/_index.html
 - title: Écoles
-  target: "/es/ecoles/"
+  target: "/es/"
   kind: page
   new_tab: false
   children: []

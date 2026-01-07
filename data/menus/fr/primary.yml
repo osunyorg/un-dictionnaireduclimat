@@ -2,7 +2,7 @@
 title: Primary
 items:
 - title: Écoles
-  target: "/fr/ecoles/"
+  target: "/fr/"
   kind: page
   new_tab: false
   children: []
@@ -359,42 +359,42 @@ items:
   path: "/pages/termes"
   file: content/fr/pages/termes/_index.html
 - title: Actualités
-  target: "/fr/actualites/"
+  target: "/fr/"
   kind: page
   new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
-  target: "/fr/equipe/"
+  target: "/fr/"
   kind: page
   new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Organisations
-  target: "/fr/organisations/"
+  target: "/fr/"
   kind: page
   new_tab: false
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: Diplômes
-  target: "/fr/diplomes/"
+  target: "/fr/"
   kind: page
   new_tab: false
   children: []
   path: "/diplomas"
   file: content/fr/diplomas/_index.html
 - title: Formations
-  target: "/fr/formations/"
+  target: "/fr/"
   kind: page
   new_tab: false
   children: []
   path: "/programs"
   file: content/fr/programs/_index.html
 - title: Campus
-  target: "/fr/campus/"
+  target: "/fr/"
   kind: page
   new_tab: false
   children: []
