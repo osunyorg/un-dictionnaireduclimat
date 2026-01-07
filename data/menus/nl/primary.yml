@@ -1,13 +1,6 @@
 ---
 title: Primary
 items:
-- title: Écoles
-  target: "/nl/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/schools"
-  file: content/nl/schools/_index.html
 - title: Voorwaarden
   target: "/nl/voorwaarden/"
   kind: page
@@ -323,6 +316,13 @@ items:
     file: content/nl/pages/voorwaarden/kwetsbaarheid-voor-het-klimaat/_index.html
   path: "/pages/voorwaarden"
   file: content/nl/pages/voorwaarden/_index.html
+- title: Écoles
+  target: "/nl/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/schools"
+  file: content/nl/schools/_index.html
 - title: Privacy Policy
   target: "/nl/privacy-policy/"
   kind: page
