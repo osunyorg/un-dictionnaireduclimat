@@ -2,164 +2,223 @@
 title: Primary
 items:
 - title: Terms
+  slug: terms
   target: "/en/termes/"
   kind: page
   new_tab: false
   children:
   - title: Adaptation
+    slug: adaptation
     target: "/en/termes/adaptation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/adaptation"
     file: content/en/pages/termes/adaptation/_index.html
   - title: Climate-smart Agriculture
+    slug: climate-smart-agriculture
     target: "/en/termes/climate-smart-agriculture/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/climate-smart-agriculture"
     file: content/en/pages/termes/climate-smart-agriculture/_index.html
   - title: Anthropocene
+    slug: anthropocene
     target: "/en/termes/anthropocene/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/anthropocene"
     file: content/en/pages/termes/anthropocene/_index.html
   - title: Mitigation
+    slug: mitigation
     target: "/en/termes/mitigation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/mitigation"
     file: content/en/pages/termes/mitigation/_index.html
   - title: Global public good
+    slug: global-public-good
     target: "/en/termes/global-public-good/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/global-public-good"
     file: content/en/pages/termes/global-public-good/_index.html
   - title: Biodiversity
+    slug: biodiversity
     target: "/en/termes/biodiversity/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/biodiversity"
     file: content/en/pages/termes/biodiversity/_index.html
   - title: Climate change
+    slug: climate-change
     target: "/en/termes/climate-change/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/climate-change"
     file: content/en/pages/termes/climate-change/_index.html
   - title: Climate
+    slug: climate
     target: "/en/termes/climate/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/climate"
     file: content/en/pages/termes/climate/_index.html
   - title: 'Conference of the Parties (COP) '
+    slug: conference-of-the-parties-cop
     target: "/en/termes/conference-of-parties-cop/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/conference-of-parties-cop"
     file: content/en/pages/termes/conference-of-parties-cop/_index.html
   - title: Nationally Determined Contributions (NDC)
+    slug: nationally-determined-contributions-ndc
     target: "/en/termes/nationally-determined-contributions-ndc/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/nationally-determined-contributions-ndc"
     file: content/en/pages/termes/nationally-determined-contributions-ndc/_index.html
   - title: Growth (economic)
+    slug: growth-economic
     target: "/en/termes/growth-economic/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/growth-economic"
     file: content/en/pages/termes/growth-economic/_index.html
   - title: Degrowth
+    slug: degrowth
     target: "/en/termes/degrowth/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/degrowth"
     file: content/en/pages/termes/degrowth/_index.html
   - title: Sustainable development
+    slug: sustainable-development
     target: "/en/termes/sustainable-development/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/termes/sustainable-development"
     file: content/en/pages/termes/sustainable-development/_index.html
+  descendants_targets:
+  - "/en/termes/adaptation/"
+  - "/en/termes/anthropocene/"
+  - "/en/termes/biodiversity/"
+  - "/en/termes/climate-change/"
+  - "/en/termes/climate-smart-agriculture/"
+  - "/en/termes/climate/"
+  - "/en/termes/conference-of-parties-cop/"
+  - "/en/termes/degrowth/"
+  - "/en/termes/global-public-good/"
+  - "/en/termes/growth-economic/"
+  - "/en/termes/mitigation/"
+  - "/en/termes/nationally-determined-contributions-ndc/"
+  - "/en/termes/sustainable-development/"
   path: "/pages/termes"
   file: content/en/pages/termes/_index.html
 - title: Schools
+  slug: schools
   target: "/en/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/schools"
   file: content/en/schools/_index.html
 - title: Acessibility
+  slug: acessibility
   target: "/en/acessibility/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/acessibility"
   file: content/en/pages/acessibility/_index.html
 - title: Privacy Policy
+  slug: privacy-policy
   target: "/en/privacy-policy/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html
 - title: Posts
+  slug: posts
   target: "/en/posts/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Team
+  slug: team
   target: "/en/team/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/en/persons/_index.html
 - title: Organizations
+  slug: organizations
   target: "/en/organizations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/en/organizations/_index.html
 - title: Diplomas
+  slug: diplomas
   target: "/en/diplomas/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/diplomas"
   file: content/en/diplomas/_index.html
 - title: Programs
+  slug: programs
   target: "/en/programs/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/programs"
   file: content/en/programs/_index.html
 - title: Campus
+  slug: campus
   target: "/en/campus/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/locations"
   file: content/en/locations/_index.html
 
