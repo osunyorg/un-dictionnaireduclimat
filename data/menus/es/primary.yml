@@ -12,7 +12,7 @@ items:
   file: content/es/pages/credits/_index.html
 - title: Écoles
   slug: ecoles
-  target: "/es/"
+  target: "/es/ecoles/"
   kind: page
   new_tab: false
   children: []

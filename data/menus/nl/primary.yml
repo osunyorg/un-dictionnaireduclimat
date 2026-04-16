@@ -452,7 +452,7 @@ items:
   file: content/nl/pages/voorwaarden/_index.html
 - title: Écoles
   slug: ecoles
-  target: "/nl/"
+  target: "/nl/ecoles/"
   kind: page
   new_tab: false
   children: []

@@ -142,7 +142,7 @@ items:
   file: content/en/pages/termes/_index.html
 - title: Schools
   slug: schools
-  target: "/en/"
+  target: "/en/schools/"
   kind: page
   new_tab: false
   children: []

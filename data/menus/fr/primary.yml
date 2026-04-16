@@ -502,7 +502,7 @@ items:
   file: content/fr/pages/termes/_index.html
 - title: Écoles
   slug: ecoles
-  target: "/fr/"
+  target: "/fr/ecoles/"
   kind: page
   new_tab: false
   children: []
@@ -511,7 +511,7 @@ items:
   file: content/fr/schools/_index.html
 - title: Actualités
   slug: actualites
-  target: "/fr/"
+  target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
@@ -520,7 +520,7 @@ items:
   file: content/fr/posts/_index.html
 - title: Équipe
   slug: equipe
-  target: "/fr/"
+  target: "/fr/equipe/"
   kind: page
   new_tab: false
   children: []
@@ -529,7 +529,7 @@ items:
   file: content/fr/persons/_index.html
 - title: Organisations
   slug: organisations
-  target: "/fr/"
+  target: "/fr/organisations/"
   kind: page
   new_tab: false
   children: []
@@ -538,7 +538,7 @@ items:
   file: content/fr/organizations/_index.html
 - title: Diplômes
   slug: diplomes
-  target: "/fr/"
+  target: "/fr/diplomes/"
   kind: page
   new_tab: false
   children: []
@@ -547,7 +547,7 @@ items:
   file: content/fr/diplomas/_index.html
 - title: Formations
   slug: formations
-  target: "/fr/"
+  target: "/fr/formations/"
   kind: page
   new_tab: false
   children: []
@@ -556,7 +556,7 @@ items:
   file: content/fr/programs/_index.html
 - title: Campus
   slug: campus
-  target: "/fr/"
+  target: "/fr/campus/"
   kind: page
   new_tab: false
   children: []
