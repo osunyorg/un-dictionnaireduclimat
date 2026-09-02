@@ -91,4 +91,13 @@ items:
   descendants_targets: []
   path: "/locations"
   file: content/es/locations/_index.html
+- title: Fichiers
+  slug: fichiers
+  target: "/es/fichiers/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/files"
+  file: content/es/files/_index.html
 
