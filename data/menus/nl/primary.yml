@@ -331,15 +331,6 @@ items:
     descendants_targets: []
     path: "/pages/voorwaarden/natuurcompensatie"
     file: content/nl/pages/voorwaarden/natuurcompensatie/_index.html
-  - title: Decarbonisatie
-    slug: decarbonisatie
-    target: "/nl/voorwaarden/decarbonisatie/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/voorwaarden/decarbonisatie"
-    file: content/nl/pages/voorwaarden/decarbonisatie/_index.html
   - title: Ontgroei
     slug: ontgroei
     target: "/nl/voorwaarden/ontgroei/"
@@ -349,6 +340,15 @@ items:
     descendants_targets: []
     path: "/pages/voorwaarden/ontgroei"
     file: content/nl/pages/voorwaarden/ontgroei/_index.html
+  - title: Decarbonisatie
+    slug: decarbonisatie
+    target: "/nl/voorwaarden/decarbonisatie/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/voorwaarden/decarbonisatie"
+    file: content/nl/pages/voorwaarden/decarbonisatie/_index.html
   - title: Milieudiplomatie
     slug: milieudiplomatie
     target: "/nl/voorwaarden/milieudiplomatie/"
